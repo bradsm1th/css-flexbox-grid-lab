@@ -1,0 +1,12 @@
+/* =======================
+/* lesson styles
+/* =====================*/
+* {
+  box-sizing: border-box;
+  /* border: 1px solid red; */
+}
+
+body {
+  margin: 0;
+  font-family: Ubuntu, Helvetica, sans-serif;
+}
